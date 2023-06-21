@@ -1,0 +1,10 @@
+{
+  "id": "minecraft:punch",
+  "items": [
+    "$minecraft:bow",
+    "$minecraft:crossbow"
+  ],
+  "incompatible": [
+    "mcdw:overcharge"
+  ]
+}

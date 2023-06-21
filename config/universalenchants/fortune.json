@@ -1,0 +1,9 @@
+{
+  "id": "minecraft:fortune",
+  "items": [
+    "$minecraft:digger"
+  ],
+  "incompatible": [
+    "minecraft:silk_touch"
+  ]
+}

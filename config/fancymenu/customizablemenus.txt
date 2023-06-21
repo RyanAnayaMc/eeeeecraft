@@ -1,0 +1,71 @@
+type = customizablemenus
+
+net.minecraft.class_442 {
+}
+
+net.minecraft.class_429 {
+}
+
+net.minecraft.class_526 {
+}
+
+net.minecraft.class_500 {
+}
+
+com.terraformersmc.modmenu.gui.ModsScreen {
+}
+
+net.minecraft.class_4189 {
+}
+
+net.minecraft.class_426 {
+}
+
+net.minecraft.class_404 {
+}
+
+net.minecraft.class_458 {
+}
+
+net.minecraft.class_4288 {
+}
+
+net.minecraft.class_6599 {
+}
+
+eu.midnightdust.midnightcontrols.client.gui.MidnightControlsSettingsScreen {
+}
+
+me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen {
+}
+
+net.minecraft.class_440 {
+}
+
+net.minecraft.class_443 {
+}
+
+net.minecraft.class_6777 {
+}
+
+net.minecraft.class_3928 {
+}
+
+net.minecraft.class_424 {
+}
+
+net.minecraft.class_435 {
+}
+
+net.minecraft.class_434 {
+}
+
+net.minecraft.class_412 {
+}
+
+fabric.com.seibel.lod.common.wrappers.config.ConfigGui$ConfigScreen {
+}
+
+net.coderbot.iris.gui.screen.ShaderPackScreen {
+}
+

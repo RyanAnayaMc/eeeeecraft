@@ -1,0 +1,7 @@
+{
+  "id": "minecraft:swift_sneak",
+  "items": [
+    "$minecraft:armor_legs"
+  ],
+  "incompatible": []
+}

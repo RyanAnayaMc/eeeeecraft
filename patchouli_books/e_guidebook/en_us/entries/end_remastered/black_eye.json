@@ -1,0 +1,20 @@
+{
+    "name": "Black Eye",
+    "icon": "endrem:black_eye",
+    "category": "patchouli:end_remastered",
+    "turnin": "endrem:main/black_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "endrem:black_eye",
+            "text": "The Black Eye can be found in buried treasure."
+        },
+        {
+            "type": "patchouli:image",
+            "text": "Find a treasure map at shipwrecks.",
+            "images": [
+                "eguide:textures/img/shipwreck.png"
+            ]
+        }
+    ]
+}

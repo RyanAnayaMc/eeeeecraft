@@ -1,0 +1,8 @@
+{
+  "id": "minecraft:binding_curse",
+  "items": [
+    "$minecraft:wearable",
+    "$universalenchants:horse_armor"
+  ],
+  "incompatible": []
+}

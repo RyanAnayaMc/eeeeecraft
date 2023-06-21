@@ -1,0 +1,41 @@
+{
+    "name": "Melee Weapons",
+    "icon": "mcdw:sword_iron_sword_var",
+    "category": "patchouli:combat",
+    "advancement": "story/mine_stone",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "There are many new melee weapons added that function differently than normal Minecraft. Swords, axes, spears, hammers, and more have unique effects. There are new attack animations as well. Many weapons handle differently, so try them out! You can autoswing weapons by holding the attack button."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Weapon Types",
+            "text": "There are one-handed and two-handed weapons. Pick whichever one suits your combat style. Keep reading to find out more."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "One-Handed Weapons",
+            "item": "mcdw:sword_diamond_sword_var",
+            "text": "One handed weapons are a good option for flexible combat builds. You can equip a one-handed weapon in your main hand and any item in your other, just like in normal Minecraft."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:shield",
+            "text": "The shield is an excellent compliment to a one-handed weapon. Like in vanilla, you can easily block incoming attacks and quickly counterattack."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "mcdw:dagger_dagger",
+            "title": "Dual Wielding",
+            "text": "You can equip a second one-handed weapon in your offhand to dual wield. This will greatly increase your damage output, but it limits your flexibility. For instance, you cannot have a shield ready instantly."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "mcdw:spear_spear",
+            "title": "Two-Handed Weapons",
+            "text": "Two-handed weapons restrict the use of the offhand. However, they typically have other upsides, like longer range or more damage."
+        }
+    ]
+}

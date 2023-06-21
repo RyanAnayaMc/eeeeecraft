@@ -1,0 +1,21 @@
+{
+    "name": "Cryptic Eye",
+    "icon": "endrem:cryptic_eye",
+    "category": "patchouli:end_remastered",
+    "advancement": "minecraft:story/enchant_item",
+    "turnin": "endrem:main/cryptic_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "endrem:cryptic_eye",
+            "text": "Not much is known about the Cryptic Eye other than the fact that it is very rare."
+        },
+        {
+            "type": "patchouli:image",
+            "text": "They say it has something to do with enchanting...",
+            "images": [
+                "eguide:textures/img/enchant_table.png"
+            ]
+        }
+    ]
+}

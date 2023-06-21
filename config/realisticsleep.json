@@ -1,0 +1,7 @@
+{
+  "dawnMessage": "Wonderful weather we\u0027re having!",
+  "sleepSpeedMultiplier": 50,
+  "blockEntityTickSpeedMultiplier": 50,
+  "chunkTickSpeedMultiplier": 50,
+  "raidTickSpeedMultiplier": 50
+}

@@ -1,0 +1,20 @@
+type = menu
+
+customization-meta {
+  identifier = eu.midnightdust.midnightcontrols.client.gui.MidnightControlsSettingsScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = resources/bg/cock_dick_ballin_bg.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+

@@ -1,0 +1,7 @@
+{
+  "id": "minecraft:unbreaking",
+  "items": [
+    "$minecraft:breakable"
+  ],
+  "incompatible": []
+}

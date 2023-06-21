@@ -1,0 +1,12 @@
+{
+  "id": "minecraft:impaling",
+  "items": [
+    "$minecraft:trident",
+    "$minecraft:weapon",
+    "$universalenchants:axe"
+  ],
+  "incompatible": [
+    "minecraft:smite",
+    "minecraft:bane_of_arthropods"
+  ]
+}

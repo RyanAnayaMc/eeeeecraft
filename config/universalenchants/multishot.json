@@ -1,0 +1,11 @@
+{
+  "id": "minecraft:multishot",
+  "items": [
+    "$minecraft:crossbow",
+    "$minecraft:bow"
+  ],
+  "incompatible": [
+    "mcdw:bonus_shot",
+    "mcdw:accelerate"
+  ]
+}

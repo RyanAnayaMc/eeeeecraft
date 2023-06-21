@@ -1,0 +1,29 @@
+type = menu
+
+customization-meta {
+  identifier = %fancymenu:universal_layout%
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  loop = true
+  channel = music
+  x = 214
+  width = 50
+  action = custom_layout_element:fancymenu_extension:audio_item
+  actionid = 67d7d8c0-dee8-4984-b16d-be89c85c560d1670459686843
+  y = 83
+  once_per_session = false
+  audio_source:526ac01e-4ca6-454a-9e64-e3359c20ae311671949261021 = resources/sweden_remix.ogg;EXTERNAL_LOCAL;50;0
+  height = 50
+}
+

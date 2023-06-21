@@ -1,0 +1,18 @@
+{
+    "name": "Magical Eye",
+    "icon": "endrem:magical_eye",
+    "category": "patchouli:end_remastered",
+    "turnin": "endrem:main/magical_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "text": "The Magical Eye can drop from Evokers. Alternatively, they rarely spawn in Woodland Mansions.",
+            "item": "endrem:magical_eye"
+        },
+        {
+            "type": "patchouli:entity",
+            "text": "Evokers spawn in Woodland Mansions or during raids.",
+            "entity": "minecraft:evoker"
+        }
+    ]
+}

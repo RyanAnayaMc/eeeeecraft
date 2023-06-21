@@ -1,0 +1,14 @@
+{
+  "id": "minecraft:sharpness",
+  "items": [
+    "$minecraft:weapon",
+    "$universalenchants:axe",
+    "$minecraft:trident"
+  ],
+  "incompatible": [
+    "mcdw:smiting",
+    "mcdw:enigma_resonator",
+    "mcdw:void_strike",
+    "mcdw:illagers_bane"
+  ]
+}

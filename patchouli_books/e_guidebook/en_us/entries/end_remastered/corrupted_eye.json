@@ -1,0 +1,20 @@
+{
+    "name": "Corrupted Eye",
+    "icon": "endrem:corrupted_eye",
+    "category": "patchouli:end_remastered",
+    "turnin": "endrem:main/corrupted_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "endrem:corrupted_eye",
+            "text": "The Corrupted Eye can be found in Pillager outposts."
+        },
+        {
+            "type": "patchouli:image",
+            "text": "Pillager outposts are often near villages.",
+            "images": [
+                "eguide:textures/img/outpost.png"
+            ]
+        }
+    ]
+}

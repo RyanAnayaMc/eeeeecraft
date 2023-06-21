@@ -1,0 +1,20 @@
+{
+    "name": "Lost Eye",
+    "icon": "endrem:lost_eye",
+    "category": "patchouli:end_remastered",
+    "turnin": "endrem:main/lost_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "text": "The Lost Eye can be found in abandoned mineshafts.",
+            "item": "endrem:lost_eye"
+        },
+        {
+            "type": "patchouli:image",
+            "text": "Abandoned mineshafts are long underground corridors with entrances at the surface.",
+            "images": [
+                "eguide:textures/img/mineshaft.png"
+            ]
+        }
+    ]
+}
