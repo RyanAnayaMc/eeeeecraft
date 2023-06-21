@@ -1,7 +1,0 @@
-{
-  "id": "minecraft:efficiency",
-  "items": [
-    "$minecraft:digger"
-  ],
-  "incompatible": []
-}

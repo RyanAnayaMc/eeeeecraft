@@ -1,9 +1,0 @@
-{
-  "id": "minecraft:loyalty",
-  "items": [
-    "$minecraft:trident"
-  ],
-  "incompatible": [
-    "minecraft:riptide"
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "id": "minecraft:channeling",
-  "items": [
-    "$minecraft:trident"
-  ],
-  "incompatible": [
-    "minecraft:riptide"
-  ]
-}

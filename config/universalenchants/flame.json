@@ -1,8 +1,0 @@
-{
-  "id": "minecraft:flame",
-  "items": [
-    "$minecraft:bow",
-    "$minecraft:crossbow"
-  ],
-  "incompatible": []
-}

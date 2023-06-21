@@ -1,8 +1,0 @@
-{
-  "id": "minecraft:thorns",
-  "items": [
-    "$minecraft:armor_chest",
-    "$universalenchants:horse_armor"
-  ],
-  "incompatible": []
-}

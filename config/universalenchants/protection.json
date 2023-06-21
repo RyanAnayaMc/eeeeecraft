@@ -1,8 +1,0 @@
-{
-  "id": "minecraft:protection",
-  "items": [
-    "$minecraft:armor",
-    "$universalenchants:horse_armor"
-  ],
-  "incompatible": []
-}

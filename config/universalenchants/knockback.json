@@ -1,9 +1,0 @@
-{
-  "id": "minecraft:knockback",
-  "items": [
-    "$minecraft:weapon",
-    "$universalenchants:axe",
-    "$minecraft:trident"
-  ],
-  "incompatible": []
-}

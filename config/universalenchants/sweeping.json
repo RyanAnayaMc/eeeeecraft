@@ -1,9 +1,0 @@
-{
-  "id": "minecraft:sweeping",
-  "items": [
-    "$minecraft:weapon",
-    "$universalenchants:axe",
-    "$minecraft:trident"
-  ],
-  "incompatible": []
-}
