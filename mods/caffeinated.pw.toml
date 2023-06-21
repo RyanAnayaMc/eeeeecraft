@@ -1,0 +1,13 @@
+name = "Caffeinated"
+filename = "caffeinated-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AL5TqUKj/versions/sImiw3ul/caffeinated-1.0.2.jar"
+hash-format = "sha1"
+hash = "c73d8205a05af88c0f633e085d9deb3fd7eed18f"
+
+[update]
+[update.modrinth]
+mod-id = "AL5TqUKj"
+version = "sImiw3ul"

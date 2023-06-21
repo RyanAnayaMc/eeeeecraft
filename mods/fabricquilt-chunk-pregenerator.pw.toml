@@ -1,0 +1,13 @@
+name = "Fabric/Quilt Chunk Pregenerator"
+filename = "fabric-chunkpregen-0.3.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AsjPpia1/versions/dDZVCrf6/fabric-chunkpregen-0.3.7.jar"
+hash-format = "sha1"
+hash = "fb16998e61d06f24fb33a9d5d4f8f46a38cb31e3"
+
+[update]
+[update.modrinth]
+mod-id = "AsjPpia1"
+version = "dDZVCrf6"

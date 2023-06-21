@@ -1,0 +1,49 @@
+AdvancedChatCore
+AdvancedChatHUD
+Advancement Plaques
+Another Furniture
+Bed Benefits
+Better Tridents
+Chef's Delight
+Cloth API
+Configured
+Diagonal Fences
+Drip Sounds
+Droplight
+End Remastered
+Easy Anvils/Magic/Shulker Boxes
+Enchantment Descriptions
+Expanded Delight
+Farmer's Delight
+Guard Villagers
+Harvest Scythes
+Iceberg
+Indium
+Item Borders
+Keep My Hand
+Legendary Tooltips
+Macaw's Bridges
+Malilib
+Marium's Soulslike Weaponry
+Merchant Markers
+Nyf's SPiders
+myLoot
+OST Overhaul
+Patchouli
+Paxi
+Phosphor
+Pick Up Notifier
+Prism
+RPG-HUD
+Roughly Enough Items/Professions/Loottables/Resources/Trades
+Simply Swords
+Small Ships
+Tips
+Traveler's Titles
+Trailblazer
+Trinkets
+Trowel
+Twilight Forest
+Untitled Duck Mod
+Visual Workbench
+Yung's API/Better Desert Temples/Better Mineshafts/Better Nether Fortresses/Better Ocean Monuments/Better Strongholds/Better Witch Huts/Bridges/Extras

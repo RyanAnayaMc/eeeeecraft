@@ -1,0 +1,13 @@
+name = "FeFe's Storage"
+filename = "fefes_storage1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RO4YExn6/versions/8nhKSVTv/fefes_storage1.20.1.jar"
+hash-format = "sha1"
+hash = "8593ca5f06b3e81b6d3f45710c0dfd1f8c4f0865"
+
+[update]
+[update.modrinth]
+mod-id = "RO4YExn6"
+version = "8nhKSVTv"

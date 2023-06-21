@@ -1,0 +1,16 @@
+name = "eeeeecraft"
+author = "RyanAnayaMc"
+version = "Beta 8"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e974b767ec8d46c996c157c5e636e906e649b498edbef0e539f903db6a917828"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.19.2-beta.2"
+
+[options]
+acceptable-game-versions = ["1.20", "1.20.1"]

@@ -1,0 +1,13 @@
+name = "Strider's Grace"
+filename = "striders-grace-1.0.0+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MeohUSmh/versions/3VNKMP8G/striders-grace-1.0.0%2B1.20.jar"
+hash-format = "sha1"
+hash = "e8b1c810917a317d2e22a44142834cea797604ec"
+
+[update]
+[update.modrinth]
+mod-id = "MeohUSmh"
+version = "3VNKMP8G"

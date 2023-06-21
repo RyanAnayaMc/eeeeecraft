@@ -1,0 +1,13 @@
+name = " Bedrock Plus"
+filename = "(Fabric)BedrockPlusMod-1.20.x-1.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pdjxnvXe/versions/zapwf9l8/%28Fabric%29BedrockPlusMod-1.20.x-1.4.2.jar"
+hash-format = "sha1"
+hash = "4f5ca88e2e23d034149c9fd4e65249baa0469a96"
+
+[update]
+[update.modrinth]
+mod-id = "pdjxnvXe"
+version = "zapwf9l8"
