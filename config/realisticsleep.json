@@ -1,0 +1,11 @@
+{
+  "dawnMessage": "Wonderful weather we\u0027re having!",
+  "sendSleepingMessage": true,
+  "sendNotEnoughPlayersSleepingMessage": true,
+  "sleepSpeedCurve": "LINEAR",
+  "sleepSpeedMultiplier": 50.0,
+  "blockEntityTickSpeedMultiplier": 50.0,
+  "chunkTickSpeedMultiplier": 50.0,
+  "raidTickSpeedMultiplier": 50.0,
+  "tickDelay": -1
+}

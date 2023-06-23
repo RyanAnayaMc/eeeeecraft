@@ -1,0 +1,11 @@
+{
+  "id": "minecraft:fire_aspect",
+  "items": [
+    "$minecraft:weapon",
+    "$universalenchants:axe",
+    "$minecraft:trident"
+  ],
+  "incompatible": [
+    "mcdw:freezing"
+  ]
+}

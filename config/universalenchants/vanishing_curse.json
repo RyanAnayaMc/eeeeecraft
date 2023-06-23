@@ -1,0 +1,10 @@
+{
+  "id": "minecraft:vanishing_curse",
+  "items": [
+    "$minecraft:vanishable",
+    "$universalenchants:horse_armor"
+  ],
+  "incompatible": [
+    "yigd:soulbound"
+  ]
+}

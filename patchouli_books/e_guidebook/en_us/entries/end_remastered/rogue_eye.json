@@ -1,0 +1,20 @@
+{
+    "name": "Rogue Eye",
+    "icon": "endrem:rogue_eye",
+    "category": "patchouli:end_remastered",
+    "turnin": "endrem:main/rogue_eye",
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "endrem:rogue_eye",
+            "text": "The Rogue Eye can be found inside of Jungle Temples."
+        },
+        {
+            "type": "patchouli:image",
+            "text": "Be wary of the arrow traps in Jungle Temples.",
+            "images": [
+                "eguide:textures/img/jungle_temple.png"
+            ]
+        }
+    ]
+}

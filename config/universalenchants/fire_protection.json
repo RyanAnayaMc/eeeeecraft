@@ -1,0 +1,11 @@
+{
+  "id": "minecraft:fire_protection",
+  "items": [
+    "$minecraft:armor",
+    "$universalenchants:horse_armor"
+  ],
+  "incompatible": [
+    "minecraft:projectile_protection",
+    "minecraft:blast_protection"
+  ]
+}

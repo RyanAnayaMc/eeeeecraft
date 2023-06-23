@@ -1,0 +1,19 @@
+{
+    "priority": true,
+    "name": "Accessing the End",
+    "icon": "minecraft:ender_eye",
+    "category": "patchouli:end_remastered",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "In order to access the End, you need to find twelve unique Eyes of Ender across the world. There are a total of sixteen of them, so you do not need to find them all. These new eyes also must be used to locate the Stronghold. Normal Eyes of Ender are merely a crafting material."
+        },
+        {
+            "type": "patchouli:image",
+            "text": "Any Eyes of Ender already inside an End Portal Frame must be removed.",
+            "images": [
+                "eguide:textures/img/portal.png"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": "minecraft:respiration",
+  "items": [
+    "$minecraft:armor_head",
+    "$universalenchants:horse_armor"
+  ],
+  "incompatible": []
+}

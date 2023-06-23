@@ -1,0 +1,10 @@
+{
+  "id": "minecraft:depth_strider",
+  "items": [
+    "$minecraft:armor_feet",
+    "$universalenchants:horse_armor"
+  ],
+  "incompatible": [
+    "minecraft:frost_walker"
+  ]
+}

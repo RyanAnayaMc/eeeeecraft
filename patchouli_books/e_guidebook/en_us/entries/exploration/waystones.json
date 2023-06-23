@@ -1,0 +1,45 @@
+{
+    "name": "Waystones",
+    "icon": "fwaystones:waystone",
+    "category": "patchouli:exploration",
+    "advancement": "morevillagers:first_village",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Waystones are incredibly useful items that allow for fast travel at the cost of XP. They can be found or crafted. The first person to discover a waystone can also rename them."
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "eguide:textures/img/waystone.png"
+            ],
+            "title": "Waystones",
+            "text": "Most villages have one waystone."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "fwaystones:abyss_watcher",
+            "recipe2": "fwaystones:waystone"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "fwaystones:stone_brick_waystone",
+            "recipe2": "fwaystones:deepslate_brick_waystone"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "fwaystones:desert_waystone",
+            "recipe2": "fwaystones:red_desert_waystone"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "fwaystones:nether_brick_waystone",
+            "recipe2": "fwaystones:red_nether_brick_waystone"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "fwaystones:blackstone_brick_waystone",
+            "recipe2": "fwaystones:end_stone_brick_waystone"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Exotic Eye",
+    "icon": "endrem:exotic_eye",
+    "category": "patchouli:end_remastered",
+    "turnin": "endrem:main/exotic_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "text": "The Exotic Eye is crafted from various acquatic items.",
+            "recipe": "endrem:exotic_eye"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:conduit",
+            "text": "Coral can be found in reefs underwater. Heart of the Sea is in buried treasure. Glow Ink Sacs are from Glow Squids."
+        }
+    ]
+}

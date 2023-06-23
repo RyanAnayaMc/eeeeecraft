@@ -1,0 +1,11 @@
+type = slideshow
+
+slideshow-meta {
+   name = e_smp_2023_summer
+   width = 1920
+   height = 1057
+   x = 0
+   y = 0
+   duration = 5.0
+   fadespeed = 12.0
+}

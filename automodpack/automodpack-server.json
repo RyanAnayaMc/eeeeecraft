@@ -1,0 +1,28 @@
+{
+  "modpackName": "",
+  "modpackHost": true,
+  "generateModpackOnStart": true,
+  "syncedFiles": [
+    "/mods/",
+    "/config/"
+  ],
+  "excludeSyncedFiles": [
+    "/mods/iDontWantThisModInModpack.jar",
+    "/config/andThisConfigToo.json",
+    "/mods/andAllTheseMods-*.jar"
+  ],
+  "allowEditsInFiles": [
+    "/options.txt",
+	"/mods/*/*client.json"
+  ],
+  "optionalModpack": false,
+  "autoExcludeServerSideMods": true,
+  "hostPort": 30037,
+  "hostThreads": 8,
+  "hostIp": "",
+  "hostLocalIp": "",
+  "externalModpackHostLink": "",
+  "reverseProxy": false,
+  "selfUpdater": true,
+  "allowFabricQuiltPlayers": false
+}

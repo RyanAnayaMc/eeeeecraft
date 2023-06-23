@@ -1,0 +1,7 @@
+{
+  "id": "minecraft:lure",
+  "items": [
+    "$minecraft:fishing_rod"
+  ],
+  "incompatible": []
+}

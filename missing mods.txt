@@ -35,7 +35,6 @@ Phosphor
 Pick Up Notifier
 Prism
 RPG-HUD
-Roughly Enough Items/Professions/Loottables/Resources/Trades
 Simply Swords
 Small Ships
 Tips

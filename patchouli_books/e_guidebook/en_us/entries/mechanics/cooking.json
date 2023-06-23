@@ -1,0 +1,36 @@
+{
+    "name": "Cooking",
+    "icon": "farmersdelight:cooking_pot",
+    "category": "patchouli:mechanics",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A new cooking system allows you to make extremely nutritious foods with higher food restoration and saturation than vanilla food items. To cook these foods, you need a stove and a cooking pot."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "farmersdelight:stove",
+            "recipe2": "farmersdelight:cooking_pot"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Cutting Up Food Items",
+            "text": "You can chop up various food items. This is needed for some items, like chopping up bread into pasta. It also can be used to make cooking more efficient. For instance, some recipes can take either bacon or pork chops, and you can get 2 pieces of bacon from 1 pork chop. Put the food to chop in your left hand and a knife in your right hand, then hold the interact button on a cutting board."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "farmersdelight:iron_knife",
+            "recipe2": "farmersdelight:cutting_board"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Skillets",
+            "text": "Skillets can be used to cook some foods instead of a furnace without costing any fuel. Put a food in your left hand and the skillet in your right hand, then hold right click on a stove, magma block, or campfire. Fire Aspect makes skillets cook faster. You can also put up to 6 items on a stove to cook them without using fuel!"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "farmersdelight:skillet"
+        }
+    ]
+}

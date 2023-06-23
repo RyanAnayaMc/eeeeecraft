@@ -1,0 +1,19 @@
+{
+    "name": "Undead Eye",
+    "icon": "endrem:undead_eye",
+    "category": "patchouli:end_remastered",
+    "advancement": "minecraft:nether/root",
+    "turnin": "endrem:main/undead_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "text": "The Undead Eye is crafted from various undead items.",
+            "item": "endrem:undead_eye"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "endrem:undead_eye",
+            "text": "The Undead Soul drops from Skeleton Horses, Ghast Tear from Ghasts, Bones from Skeletons, Rotten Flesh from Zombies, and Phantom Membrane from Phantoms."
+        }
+    ]
+}

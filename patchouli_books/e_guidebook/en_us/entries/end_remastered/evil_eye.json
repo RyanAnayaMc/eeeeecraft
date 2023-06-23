@@ -1,0 +1,21 @@
+{
+    "name": "Evil Eye",
+    "icon": "endrem:evil_eye",
+    "category": "patchouli:end_remastered",
+    "advancement": "morevillagers:first_trade",
+    "turnin": "endrem:main/evil_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "endrem:evil_eye",
+            "text": "The Evil Eye can be purchased from a Master level Cleric. Not all Master Clerics will sell the Evil Eye."
+        },
+        {
+            "type": "patchouli:image",
+            "text": "The workstation of a Cleric is the Brewing Station.",
+            "images": [
+                "eguide:textures/img/cleric.png"
+            ]
+        }
+    ]
+}

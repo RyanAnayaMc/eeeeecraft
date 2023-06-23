@@ -1,0 +1,29 @@
+type = menu
+
+customization-meta {
+  identifier = %fancymenu:universal_layout%
+  randomgroup = 1
+  renderorder = foreground
+  randommode = true
+  randomonlyfirsttime = true
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  loop = true
+  channel = music
+  x = 229
+  width = 50
+  action = custom_layout_element:fancymenu_extension:audio_item
+  actionid = 67d7d8c0-dee8-4984-b16d-be89c85c560d1670459686843
+  y = 58
+  audio_source:58d2aeb5-9aa4-4af8-9e3c-df55325330351687509551489 = resources/jupiter_dead_voxel_remix.ogg;EXTERNAL_LOCAL;30;0
+  once_per_session = false
+  height = 50
+}
+

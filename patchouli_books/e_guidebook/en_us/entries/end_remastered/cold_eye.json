@@ -1,0 +1,20 @@
+{
+    "name": "Cold Eye",
+    "icon": "endrem:cold_eye",
+    "category": "patchouli:end_remastered",
+    "turnin": "endrem:main/cold_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "endrem:cold_eye",
+            "text": "The Cold Eye can be found on the underground part of igloos."
+        },
+        {
+            "type": "patchouli:image",
+            "text": "Check under the carpet for a trapdoor. Not all igloos have this.",
+            "images": [
+                "eguide:textures/img/igloo.png"
+            ]
+        }
+    ]
+}

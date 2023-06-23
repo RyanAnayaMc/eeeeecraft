@@ -1,0 +1,9 @@
+{
+  "id": "minecraft:piercing",
+  "items": [
+    "$minecraft:crossbow",
+    "$minecraft:trident",
+    "$minecraft:bow"
+  ],
+  "incompatible": []
+}
