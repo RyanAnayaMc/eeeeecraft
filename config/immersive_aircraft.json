@@ -14,7 +14,7 @@
   "acceptVanillaFuel": true,
   "useCustomKeybindSystem": true,
   "crashDamage": 2.0,
-  "preventKillThroughCrash": true,
+  "preventKillThroughCrash": false,
   "fuelList": {
     "minecraft:blaze_powder": 1200
   },

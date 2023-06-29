@@ -3,11 +3,9 @@ AdvancedChatHUD
 Advancement Plaques
 Another Furniture
 Bed Benefits
-Better Tridents
 Chef's Delight
 Cloth API
 Configured
-Diagonal Fences
 Drip Sounds
 Droplight
 End Remastered
@@ -44,5 +42,4 @@ Trinkets
 Trowel
 Twilight Forest
 Untitled Duck Mod
-Visual Workbench
 Yung's API/Better Desert Temples/Better Mineshafts/Better Nether Fortresses/Better Ocean Monuments/Better Strongholds/Better Witch Huts/Bridges/Extras

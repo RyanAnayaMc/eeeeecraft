@@ -1,0 +1,13 @@
+name = "WAIG: Where Am I Going"
+filename = "waig-1.1.5-mc1.20-and-newer.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IOYm9Bdm/versions/epxHQRhx/waig-1.1.5-mc1.20-and-newer.jar"
+hash-format = "sha1"
+hash = "bbc5eea57ab324a9e5c16cebef7c386071b4310c"
+
+[update]
+[update.modrinth]
+mod-id = "IOYm9Bdm"
+version = "epxHQRhx"

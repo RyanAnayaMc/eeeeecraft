@@ -1,8 +1,0 @@
-{
-  "id": "minecraft:soul_speed",
-  "items": [
-    "$minecraft:armor_feet",
-    "$universalenchants:horse_armor"
-  ],
-  "incompatible": []
-}

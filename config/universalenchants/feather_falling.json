@@ -1,8 +1,0 @@
-{
-  "id": "minecraft:feather_falling",
-  "items": [
-    "$minecraft:armor_feet",
-    "$universalenchants:horse_armor"
-  ],
-  "incompatible": []
-}

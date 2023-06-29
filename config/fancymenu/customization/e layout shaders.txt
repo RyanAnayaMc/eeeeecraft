@@ -9,11 +9,6 @@ customization-meta {
 }
 
 customization {
-  path = resources/bg/cock_dick_ballin_bg.png
-  action = texturizebackground
-}
-
-customization {
   keepaspectratio = false
   action = backgroundoptions
 }

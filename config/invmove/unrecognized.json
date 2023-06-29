@@ -48,7 +48,11 @@
     "vazkii.patchouli.client.book.gui.GuiBookWriter": true,
     "vazkii.patchouli.client.book.gui.GuiBookEntry": true,
     "vazkii.patchouli.client.book.gui.GuiBookCategory": true,
-    "org.betterx.bclib.client.gui.screens.SyncFilesScreen": true
+    "org.betterx.bclib.client.gui.screens.SyncFilesScreen": true,
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "mod.azure.hwg.client.gui.GunTableScreen": true,
+    "com.teamresourceful.resourcefulconfig.client.ConfigScreen": true,
+    "com.supermartijn642.core.gui.WidgetScreen": true
   },
   "hideBackground": {
     "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
@@ -70,6 +74,9 @@
     "vazkii.patchouli.client.book.gui.GuiBookIndex": true,
     "vazkii.patchouli.client.book.gui.GuiBookWriter": true,
     "vazkii.patchouli.client.book.gui.GuiBookCategory": true,
-    "vazkii.patchouli.client.book.gui.GuiBookEntry": true
+    "vazkii.patchouli.client.book.gui.GuiBookEntry": true,
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "mod.azure.hwg.client.gui.GunTableScreen": true,
+    "com.supermartijn642.core.gui.WidgetScreen": true
   }
 }

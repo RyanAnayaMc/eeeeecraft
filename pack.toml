@@ -1,12 +1,12 @@
 name = "eeeeecraft"
 author = "RyanAnayaMc"
-version = "Beta 8"
+version = "0.8"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2a15fe8da3e7d6e26bab765a4704ffb9c26ee0d5b483b44edaa8e99018fdf8a8"
+hash = "3edff46b393d44b43f15e2e241d955e20f692879c81707defc0e3fce6a1c6f00"
 
 [versions]
 minecraft = "1.20.1"

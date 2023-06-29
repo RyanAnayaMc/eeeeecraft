@@ -1,0 +1,13 @@
+name = "End Remastered"
+filename = "fabric-end-remastered-R5.2.2-1.20.X.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZJTGwAND/versions/CYis3W3g/fabric-end-remastered-R5.2.2-1.20.X.jar"
+hash-format = "sha1"
+hash = "3295477f729dd82c036d0fd055893df5b1751b4e"
+
+[update]
+[update.modrinth]
+mod-id = "ZJTGwAND"
+version = "CYis3W3g"

@@ -1,9 +1,0 @@
-{
-  "id": "minecraft:quick_charge",
-  "items": [
-    "$minecraft:crossbow",
-    "$minecraft:trident",
-    "$minecraft:bow"
-  ],
-  "incompatible": []
-}
