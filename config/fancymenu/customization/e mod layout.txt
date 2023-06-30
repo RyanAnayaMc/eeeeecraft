@@ -376,7 +376,7 @@ customization {
 customization {
   orientation = mid-centered
   restartbackgroundanimations = true
-  buttonaction = joinserver;mc.eeeee.dev%btnaction_splitter_fm%
+  buttonaction = joinserver;mc.eeeee.dev:25567%btnaction_splitter_fm%
   backgroundhovered = resources/button_sel_new.png
   label = Join SMP!
   loopbackgroundanimations = true

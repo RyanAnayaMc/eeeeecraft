@@ -586,7 +586,7 @@ hash = "174eef081890fe027f0bc3b6030ec2abe7fe577e2186d4f76ccd04e428a2de08"
 
 [[files]]
 file = "config/fancymenu/customization/e mod layout.txt"
-hash = "52f14038ffa569611e16aead8268c7aff1f1f491c20f3c8fd92dce0af108328b"
+hash = "5f00e3965010d93446ebd632f4f3884bb008d7ea999b4eb5ac1a90560d1dd792"
 
 [[files]]
 file = "config/fancymenu/customization/e_mod_controls.txt"
@@ -1307,11 +1307,6 @@ hash = "f238e1f28f18e58f737116b13dab9716ca38b2dd84242e802d60419cc71ed737"
 metafile = true
 
 [[files]]
-file = "mods/audaki-cart-engine.pw.toml"
-hash = "ce703f0ad9d83264f198868e995cb46250c8cec43ddf1844a95b7345f26a6577"
-metafile = true
-
-[[files]]
 file = "mods/audio-extension-for-fancymenu.pw.toml"
 hash = "ba989f1c9fb56f2185de79025489e0b3fe12b4783cae67a6c4cd5a642c532ed6"
 metafile = true
@@ -1373,7 +1368,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "8772e9624f75bc138a9dcc41fd6569056061517e007a875b5acedb892d22ab9f"
+hash = "6f4b7e267811112a7d5283ad01b561bf03b18b7aac242dd25d8c899adec5cfec"
 metafile = true
 
 [[files]]
@@ -1529,6 +1524,11 @@ metafile = true
 [[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "8a65a14e1b52f9b52b7f952a034a53bac67b1fd4374d6693759e2a297898a5f5"
+metafile = true
+
+[[files]]
+file = "mods/ender-zoology.pw.toml"
+hash = "807f4827867c068c5dd3f222138bc296d72ece5c02c02da05ca211e0f9005370"
 metafile = true
 
 [[files]]
@@ -1703,7 +1703,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "af854dee3a052bddd41925e2f187a77c9ac640aed1c80d47f4fc73a7476825d4"
+hash = "91d323be08b36114875fa3469564396d869ff012617bebc94250834f2e5a8f38"
 metafile = true
 
 [[files]]
@@ -1724,11 +1724,6 @@ metafile = true
 [[files]]
 file = "mods/naturally-charged-creepers.pw.toml"
 hash = "a706326daeb5070bc86986c6708246a121f802ba2c9df6faa027f66bbd74efcb"
-metafile = true
-
-[[files]]
-file = "mods/nbttooltips.pw.toml"
-hash = "6f038f7f71310c490416e54c157acf849224e67eb862c94da9e6c422326f2925"
 metafile = true
 
 [[files]]
@@ -1788,7 +1783,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "e41cae8b221bbd05ecd94dd60bb46976f1a790f4695e805005049c5b6fb1654f"
+hash = "023766a7e573dff70c9686e42e97e3b1ab9ac4f2fb4d9fc8b6752984c3f6e506"
 metafile = true
 
 [[files]]
@@ -1918,7 +1913,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "1dbe0f58d17fe3f120e00b6b79e24dda4fbda5c4d2cf3d0f312165088f5327d5"
+hash = "4a76df3c799d5a30b1fc8f05cd16a87b91f1817e4064365ff7d55a651fafcaad"
 metafile = true
 
 [[files]]
@@ -2012,7 +2007,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "9088b21bada29e374a8fdae52d7ad19ebdb34e0d0eef685ff94286c5452059f2"
+hash = "86e3e4791052acec913fd2ab2fb3d00da518e638ff6ac0cf58ef03dddf43eb17"
 
 [[files]]
 file = "patchouli_books/e_guidebook/book.json"
@@ -2775,10 +2770,6 @@ hash = "751ea66ffdc9ad93ad3d4835c0914a96499af872fcd144765fbe9f9689cfd06b"
 [[files]]
 file = "resources/logo_only.png"
 hash = "ffda19172ee9f449b63420f73c052ceb97b0b24757929092ee73392673abcd20"
-
-[[files]]
-file = "resources/minecraft/font/default.json"
-hash = "9280c6c8506aab9505a68ba819710d0a2e3e417b9ff6f5119ce84953715ea3bc"
 
 [[files]]
 file = "resources/splashes.txt"
