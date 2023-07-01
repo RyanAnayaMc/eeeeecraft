@@ -446,7 +446,7 @@ hash = "31c1f5099f0deb10946338897737b96384d681034367adef94bb380211fe91f3"
 
 [[files]]
 file = "config/endrem.json"
-hash = "cc9eb7490bf455479afd6670578b29dff32ad39d4453b4fd29352260b3e3b671"
+hash = "52479092038b6a1f590daf887837f454e3f3190555a64e00cb119085f6d62607"
 
 [[files]]
 file = "config/enhancedvisuals-client.json"
@@ -1312,11 +1312,6 @@ hash = "ba989f1c9fb56f2185de79025489e0b3fe12b4783cae67a6c4cd5a642c532ed6"
 metafile = true
 
 [[files]]
-file = "mods/automodpack.pw.toml"
-hash = "7028a2dfe1ffa861c440b3c238578c4dfc4b9a0d05fa6d38f5b28d6f25c9cef4"
-metafile = true
-
-[[files]]
 file = "mods/auudio.pw.toml"
 hash = "65ed1a591a0fab7f3337d6126623a7edc111cce3328547ab5f8c647e2ec9d7da"
 metafile = true
@@ -1473,7 +1468,7 @@ metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
-hash = "0feed91dccb01081ba9827044e49dbeffa3ebca01a3b2e0b1a7b4a0e71f01b2f"
+hash = "405a0c21eb7b2fe5d24b595002dc80b30022bd8a87c60678150b85373420909e"
 metafile = true
 
 [[files]]
@@ -1523,7 +1518,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-slot.pw.toml"
-hash = "8a65a14e1b52f9b52b7f952a034a53bac67b1fd4374d6693759e2a297898a5f5"
+hash = "1d327c7422c097ddef659468a367b195e299f1e40068bf95c2cd2ee6462faa67"
 metafile = true
 
 [[files]]
@@ -1554,6 +1549,16 @@ metafile = true
 [[files]]
 file = "mods/extractinator.pw.toml"
 hash = "deeb4b178d7dbd8aca403d9e96cb6126276331fc22a3c8185e8d265e83954bb0"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "b92a08e1bcd540e972238d9744b2b85df361df4eeaeeaec993be62c33507054a"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "4ee359a86da950211a8da17a896c815af7d35fd9c5b7d3472f3fd5676476ba81"
 metafile = true
 
 [[files]]
@@ -1787,16 +1792,6 @@ hash = "023766a7e573dff70c9686e42e97e3b1ab9ac4f2fb4d9fc8b6752984c3f6e506"
 metafile = true
 
 [[files]]
-file = "mods/qkl.pw.toml"
-hash = "c70e1c1ee7debf1816fcc3b19b3c0e295432acb32286a8841e173240242f5865"
-metafile = true
-
-[[files]]
-file = "mods/qsl.pw.toml"
-hash = "3f36737e564906049beb87529db19a44126c2a7717f1b112fc326229295e62d1"
-metafile = true
-
-[[files]]
 file = "mods/quickstack.pw.toml"
 hash = "5494e644026bd91981e313a916431666e509a700550ad7dcbc7e2883a257d9d5"
 metafile = true
@@ -1947,22 +1942,8 @@ hash = "5ad04a604b92754fcc7896310f1d201bc9f22bb70901a76504daa265b3f8745c"
 metafile = true
 
 [[files]]
-file = "mods/ultris-endrem-link.jar"
-hash = "f15d1e518f14232627edcd4f4e5c9a1adad8ae2b38efbdde06ea05919e29d90f"
-
-[[files]]
-file = "mods/ultris.pw.toml"
-hash = "2ce4328079fe4ccac39d71bf6a5f9933d3b9fa742f993913c04d5bc86f84fe7b"
-metafile = true
-
-[[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "fda4e069e887ff780b767ba811a8e882ae527df4bdd8eacd7d60bab76eb27f27"
-metafile = true
-
-[[files]]
-file = "mods/vein-mining.pw.toml"
-hash = "f9efeae983d754b3d9ddc56721885f1a959db0258f6e49e49af5394c5d296345"
 metafile = true
 
 [[files]]
@@ -1977,7 +1958,7 @@ metafile = true
 
 [[files]]
 file = "mods/visuality.pw.toml"
-hash = "57167b8633443de7901511872a276a81839ecf7454c2c120b86a56948b7694b5"
+hash = "9b3fd0e07219491269f7977d4b42c3c4c9769f1c99cf1531e612265157ed7071"
 metafile = true
 
 [[files]]
@@ -2773,7 +2754,7 @@ hash = "ffda19172ee9f449b63420f73c052ceb97b0b24757929092ee73392673abcd20"
 
 [[files]]
 file = "resources/splashes.txt"
-hash = "e83e75ead3955b202753e006cff0609d2f92b6b346782840ddeaba1f4cb2ef35"
+hash = "7a79d8b9431cca5321456e089c2045e3954c5a7e42e3597e4036581a77e28f3a"
 
 [[files]]
 file = "resources/transparent.png"

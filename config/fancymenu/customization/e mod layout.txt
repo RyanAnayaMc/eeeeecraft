@@ -111,15 +111,6 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = resources/button_sel.png
-  backgroundnormal = resources/button.png
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
   action = sethoverlabel
   label = §eAccessibility
 }
@@ -276,15 +267,6 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = resources/button_sel.png
-  backgroundnormal = resources/button.png
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   action = sethoverlabel
   label = §eLanguage
 }
@@ -376,9 +358,9 @@ customization {
 customization {
   orientation = mid-centered
   restartbackgroundanimations = true
-  buttonaction = joinserver;mc.eeeee.dev:25567%btnaction_splitter_fm%
+  buttonaction = openlink;https://www.youtube.com/watch?v=dQw4w9WgXcQ%btnaction_splitter_fm%
   backgroundhovered = resources/button_sel_new.png
-  label = Join SMP!
+  label = [Broken Button]
   loopbackgroundanimations = true
   hoverlabel = &dJoin SMP!
   x = -147

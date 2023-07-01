@@ -1,13 +1,13 @@
 name = "Cristel Lib"
-filename = "cristellib-quilt-1.1.0.jar"
+filename = "cristellib-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/cl223EMc/versions/U859rPyK/cristellib-quilt-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/cl223EMc/versions/y3Ko1fGT/cristellib-1.1.0.jar"
 hash-format = "sha1"
-hash = "612ad3f62f84a2eb1c7e24dd75fc27c49b04ecfa"
+hash = "b187c05327543fdd227f7b692577eae6353dfeae"
 
 [update]
 [update.modrinth]
 mod-id = "cl223EMc"
-version = "U859rPyK"
+version = "y3Ko1fGT"
