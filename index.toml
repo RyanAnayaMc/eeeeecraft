@@ -505,10 +505,6 @@ file = "config/fancymenu/customization/e layout chat.txt"
 hash = "c22a139a23fea1c7cd5551cc6469610764146e81dabffa34fa644fd63ca2e616"
 
 [[files]]
-file = "config/fancymenu/customization/e layout connecting.txt"
-hash = "19d620cd46f692fa03f93f1d667c17330336703bc4363f6fccfeae573784d33c"
-
-[[files]]
 file = "config/fancymenu/customization/e layout controller.txt"
 hash = "4d1fa18804b9a22d01f78a902e34c18c927c694244cf439f898566b1273a0a91"
 
@@ -586,7 +582,7 @@ hash = "174eef081890fe027f0bc3b6030ec2abe7fe577e2186d4f76ccd04e428a2de08"
 
 [[files]]
 file = "config/fancymenu/customization/e mod layout.txt"
-hash = "5f00e3965010d93446ebd632f4f3884bb008d7ea999b4eb5ac1a90560d1dd792"
+hash = "7a58e8fa44b1214ca3a29ffd038dda347a39b37f8a565c9f7f627c1b4cc629d2"
 
 [[files]]
 file = "config/fancymenu/customization/e_mod_controls.txt"
@@ -1218,7 +1214,7 @@ hash = "6641317fbdfebfa6dc84e091ebe4e1856557f141029095b10481e47e502c74db"
 
 [[files]]
 file = "config/veinmining-client.toml"
-hash = "4e5718fcdf61cb2559c3b28d58a7bfb0cc9032ea4533139a7789adb38658619c"
+hash = "a0fa765588fee096c88934ce8b2fc2037c062adecb3e8120b3f4eb7e6230ac27"
 
 [[files]]
 file = "config/veinmining-common.toml"
@@ -1323,7 +1319,7 @@ metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-hash = "6feb602e2a496e1968a681a69c57c9fc7306e9dce803709b7b6d05fab423c7a2"
+hash = "cbf5544ba86d4d10262fff9c53af6c9ef05bb92d329bb02f891a5aaf3ca94631"
 metafile = true
 
 [[files]]
@@ -1517,18 +1513,13 @@ hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
-file = "mods/elytra-slot.pw.toml"
-hash = "1d327c7422c097ddef659468a367b195e299f1e40068bf95c2cd2ee6462faa67"
-metafile = true
-
-[[files]]
 file = "mods/ender-zoology.pw.toml"
 hash = "807f4827867c068c5dd3f222138bc296d72ece5c02c02da05ca211e0f9005370"
 metafile = true
 
 [[files]]
 file = "mods/endrem.pw.toml"
-hash = "627f164b69cda199e6107324e4893b6ee09e632624dc5bf561e58e81fafcb097"
+hash = "bbd91f6874d99a59119b15103576c6686fe55bbf68dc3a03576d9ecd92023206"
 metafile = true
 
 [[files]]
@@ -1612,11 +1603,6 @@ hash = "46eef936ccb4d8394fe0a1d75ad1082975926151e53e771aa459e48ba7fd4fe3"
 metafile = true
 
 [[files]]
-file = "mods/horse-expert.pw.toml"
-hash = "f0b69c8697dabef644a2ce7cab339b647d64cca27178a3f15f842565b968b446"
-metafile = true
-
-[[files]]
 file = "mods/illagers-wear-armor-fabric.pw.toml"
 hash = "eca1a3906074b7b3b1f64ba5449b64ec236609d536131df16effeb55768d4e01"
 metafile = true
@@ -1638,7 +1624,7 @@ metafile = true
 
 [[files]]
 file = "mods/invmove.pw.toml"
-hash = "6c23effe989d0ed4ab961b50ea7ed1b5fcff036df0b7abacdbd053e4f2b1ddca"
+hash = "881ad6ef91c24ce547c8062685cf361b1937b4162c8a238196c8106ef62ab15d"
 metafile = true
 
 [[files]]
@@ -1678,7 +1664,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "c885afb869d41de6af6e8262cf6ac3b3072d5872b5420413f288de87095f454e"
+hash = "bc79745faf3cfec5d60e239817905c2bebfb692f8ae3ff3671fc8afd4800227e"
 metafile = true
 
 [[files]]
@@ -1708,7 +1694,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "91d323be08b36114875fa3469564396d869ff012617bebc94250834f2e5a8f38"
+hash = "3a177eba38b496daa3b19ee6d97d5cd82ef07a0ace8d16d43ef81d8a049281f7"
 metafile = true
 
 [[files]]
@@ -1792,11 +1778,6 @@ hash = "023766a7e573dff70c9686e42e97e3b1ab9ac4f2fb4d9fc8b6752984c3f6e506"
 metafile = true
 
 [[files]]
-file = "mods/quickstack.pw.toml"
-hash = "5494e644026bd91981e313a916431666e509a700550ad7dcbc7e2883a257d9d5"
-metafile = true
-
-[[files]]
 file = "mods/reacharound.pw.toml"
 hash = "1bdc2b4d59ee6805bcd05fb4a68782c2a020270a7da21531b245fd03b5ba2426"
 metafile = true
@@ -1824,11 +1805,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "436c6f1ea72b86c398726a719b3bdce1fde25c49e7cf42e777ded9688ab7e895"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "7e7e64bf9e193e56bbb53c71d1a29544e8543bc33d8a99bd24dcc26be2f88922"
 metafile = true
 
 [[files]]
@@ -1887,11 +1863,6 @@ hash = "95a8e99f81de38821f96fe6af69677a1f9ec722f2268418d1b800cebc5f8928c"
 metafile = true
 
 [[files]]
-file = "mods/striders-grace.pw.toml"
-hash = "e56ceec10e9ca794849df9e41e70af3e24fcfc683e7a232748ab212c0ef01b4c"
-metafile = true
-
-[[files]]
 file = "mods/subterrestrial.pw.toml"
 hash = "fd328d75398be9da307302b442b0ec9cb771b2da33d277dbfe0eacde51e9f659"
 metafile = true
@@ -1937,18 +1908,18 @@ hash = "80fa672d8a0ce501a8b0a6ed184e3a5cef92abb42222d1e6624a2d54e4044c2e"
 metafile = true
 
 [[files]]
-file = "mods/trinkets.pw.toml"
-hash = "5ad04a604b92754fcc7896310f1d201bc9f22bb70901a76504daa265b3f8745c"
-metafile = true
-
-[[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "fda4e069e887ff780b767ba811a8e882ae527df4bdd8eacd7d60bab76eb27f27"
 metafile = true
 
 [[files]]
+file = "mods/vein-mining.pw.toml"
+hash = "33d2da17e5af1851a9728b1b1219faa10f4c4a1c303ede38d66ef01349056d86"
+metafile = true
+
+[[files]]
 file = "mods/visual-overhaul.pw.toml"
-hash = "a75b9ac4fcc70d2e24d394c034fdc496f282d2f4200b5cf916f43daee4590a87"
+hash = "8e79fdfa0ea30a98f50157c9c6b9d3bc24a34706956d62a8d839f5e97e0a9cdb"
 metafile = true
 
 [[files]]
@@ -1978,7 +1949,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "20e45a32d5dd822ae9a5378b31af7c6293b99d566af7d3d2aad24228e118258d"
+hash = "5d920f14136c4e3b7731846bd21dbb5ace512d962b61338ffffeae284525b520"
 metafile = true
 
 [[files]]

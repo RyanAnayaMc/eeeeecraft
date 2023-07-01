@@ -1,12 +1,12 @@
 name = "eeeeecraft"
 author = "RyanAnayaMc"
-version = "0.8.1"
+version = "0.8.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8cbc486ae0e53fffe8747d377cbc07fef190f25afd8d458cb7a1b70c43fa75a8"
+hash = "9397eb7bab33fe2376cb945f6f97d621542cf4738b2dfb55c75bee6c733a2cd8"
 
 [versions]
 fabric = "0.14.21"
