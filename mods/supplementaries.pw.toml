@@ -1,13 +1,13 @@
 name = "Supplementaries"
-filename = "supplementaries-1.20-2.5.15-fabric.jar"
+filename = "supplementaries-1.20-2.5.18-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/wcgNRfcG/supplementaries-1.20-2.5.15-fabric.jar"
+url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/2293Jq1G/supplementaries-1.20-2.5.18-fabric.jar"
 hash-format = "sha1"
-hash = "88a7321a7ba4e17bf6815cd13446b7b29195ca89"
+hash = "0cd665540de75dc1f6d06f5cf3c3674523d39abe"
 
 [update]
 [update.modrinth]
 mod-id = "fFEIiSDQ"
-version = "wcgNRfcG"
+version = "2293Jq1G"
