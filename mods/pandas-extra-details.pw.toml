@@ -1,0 +1,13 @@
+name = "Panda's Extra Details"
+filename = "extra_details-0.2+1.20-1.20.1-beta.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RQ7OrTFx/versions/FM0Eog45/extra_details-0.2%2B1.20-1.20.1-beta.jar"
+hash-format = "sha1"
+hash = "f1e90a0e3016d6e718ae7e3c17c5ab08f2764635"
+
+[update]
+[update.modrinth]
+mod-id = "RQ7OrTFx"
+version = "FM0Eog45"

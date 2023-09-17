@@ -1,0 +1,13 @@
+name = "Raw Ores Processing"
+filename = "raw-ores-processing-1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eNdleRJp/versions/IUPBpfD8/raw-ores-processing-1.5.jar"
+hash-format = "sha1"
+hash = "a082eedc13fc78e902eddd1fa2bcfb8d84503f05"
+
+[update]
+[update.modrinth]
+mod-id = "eNdleRJp"
+version = "IUPBpfD8"
